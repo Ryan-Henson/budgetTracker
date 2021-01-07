@@ -11,8 +11,6 @@ The user is able to add expenses and deposits to their budget with or without a 
 # Table of Content:
 
 - [Technologies Used](#technologies-used)
-- [Installation Instructions](#installation-instructions)
-- [Usage Information](#usage-information)
 - [Contribution Guidlines](#contribution-guidelines)
 - [Test Instructions](#test-instructions)
 - [Questions](#questions)
@@ -24,20 +22,15 @@ The user is able to add expenses and deposits to their budget with or without a 
 
 Javascript, HTML, CSS, Bootstrap, Node.jsm, Express, MongoDB, Mongoose, Heroku
 
-## Installation Instructions
-
-
-
-## Usage Infomration
-
 
 ## Contribution Guidlines
 
-NA
+Worked with Shani Black
+
 
 ## Test Instructions
 
-
+NA
 
 ## Questions
 
